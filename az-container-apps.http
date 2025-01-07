@@ -1,0 +1,6 @@
+@az_container_apps_HostAddress = http://localhost:5227
+
+GET {{az_container_apps_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
